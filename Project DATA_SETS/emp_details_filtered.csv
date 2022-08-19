@@ -1,0 +1,134 @@
+leave_id,ent_id,leave_from,leave_to,reason,leave_type,request_time,approval_status,approved_by,approval_time,reject_reason,email_from,email_time,update_time,updated_by,reminder_count
+5106,aki.arshad,4/19/2022,4/22/2022,Annual Leave,Regular Vacation,18:19.6,A,mercy.pt,30:40.5, ,aki.arshad@accenture.com,18:19.6,19:13.8,mohan.r.parameswaran,0
+5372,sareena.bains,4/11/2022,4/18/2022,Annual Leave,Regular Vacation,44:56.6,A,james.mccann,53:48.7, ,sareena.bains@accenture.com,44:56.6,00:11.7,mohan.r.parameswaran,0
+5476,julie.mccarthy,4/1/2022,4/4/2022,Holiday,Vacation,15:02.9,A,ahmed.mahmood,25:55.8, ,julie.mccarthy@accenture.com,15:02.9,36:25.0,neha.udaykumar.kale,0
+8102,chandan.kuma,4/20/2022,4/21/2022,Vacation,Vacation,08:31.7,A,AutoAppoval,04:10.9,,chandan.kuma@accenture.com,08:31.7,04:10.9,neha.udaykumar.kale,3
+8134,peter.a.johnston,4/7/2022,4/14/2022,Annual Leave,Regular Vacation,31:02.0,C,,45:48.1,,peter.a.johnston@accenture.com,31:02.0,40:11.9,neha.udaykumar.kale,0
+8173,oliver.lawton,4/4/2022,4/8/2022,Vacation,Regular,49:33.9,A,cameron.torrens,19:48.6, ,oliver.lawton@accenture.com,49:33.9,16:25.7,neha.udaykumar.kale,1
+8189,maria.mitchenko,4/22/2022,4/25/2022,Vacation,Regular,51:18.7,A,AutoAppoval,02:13.2,,maria.mitchenko@accenture.com,51:18.7,02:13.2,neha.udaykumar.kale,3
+8197,harsh.verma,4/19/2022,4/26/2022,Vacation,Regular,28:02.1,A,pravar.agrawal,55:55.5, ,harsh.b.verma@accenture.com,28:02.1,02:14.9,neha.udaykumar.kale,0
+8224,oliver.lawton,4/11/2022,4/14/2022,Vacation,Regular,53:07.0,A,cameron.torrens,04:42.7, ,oliver.lawton@accenture.com,53:07.0,00:40.0,neha.udaykumar.kale,1
+8294,r.eo.kumar,4/27/2022,4/29/2022,Vacation Holiday,Vacation Holiday,32:29.7,A,AutoAppoval,57:06.6,,r.eo.kumar@accenture.com,32:29.7,57:06.6,neha.udaykumar.kale,3
+8315,ramya.c.ramesh,4/14/2022,4/28/2022,Marriage,Vacation Leave,2/22/2022 18:37,R,geetha.mangattoor,37:11.5, ,ramya.h.darapureddy@accenture.com,2/22/2022 18:37,07:58.6,neha.udaykumar.kale,3
+8335,ramya.h.darapureddy,4/14/2022,4/28/2022,Marriage,Vacation Leave,11:28.2,A,t.e.srinivasan,42:10.9, ,ramya.h.darapureddy@accenture.com,11:28.2,28:34.4,neha.udaykumar.kale,0
+8347,a.praful.merchant,4/11/2022,4/14/2022,Personal commitments,Regular Vacation,33:05.2,A,AutoAppoval,13:23.3,,a.praful.merchant@accenture.com,33:05.2,13:23.3,neha.udaykumar.kale,3
+8348,a.praful.merchant,4/25/2022,4/29/2022,Personal commitments,Regular Vacation,33:03.2,A,AutoAppoval,13:23.3,,a.praful.merchant@accenture.com,33:03.2,13:23.3,neha.udaykumar.kale,3
+8357,p.thomson,4/4/2022,4/8/2022,Annual Leave,Regular Vacation,34:49.3,A,jo.dutta-genner,32:43.2, ,p.thomson@accenture.com,34:49.3,28:23.3,neha.udaykumar.kale,1
+8361,karunya.jagadish,4/13/2022,4/14/2022,Vacation,Vacation Leave,00:16.1,A,AutoAppoval,05:19.3,,karunya.jagadish@accenture.com,00:16.1,05:19.3,neha.udaykumar.kale,3
+8366,ramya.c.ramesh,4/21/2022,4/25/2022,Personal,Vacation,05:30.4,A,AutoAppoval,05:19.3,,ramya.c.ramesh@accenture.com,05:30.4,05:19.3,neha.udaykumar.kale,3
+8374,peter.a.johnston,4/22/2022,4/25/2022,Annual Leave,Regular Vacation,30:44.7,A,AutoAppoval,05:19.3,,peter.a.johnston@accenture.com,30:44.7,05:19.3,neha.udaykumar.kale,3
+8375,peter.a.johnston,4/7/2022,4/18/2022,Annual Leave,Regular Vacation,29:39.2,A,AutoAppoval,05:19.3,,peter.a.johnston@accenture.com,29:39.2,05:19.3,neha.udaykumar.kale,3
+8376,deepak.a.prajapati,4/11/2022,4/14/2022,Leave,Planned leave,37:58.0,A,AutoAppoval,05:19.3,,deepak.a.prajapati@accenture.com,37:58.0,05:19.3,neha.udaykumar.kale,3
+8377,nagendra.sunku.b,4/8/2022,4/11/2022,Annual Leave,Annual Leave,14:45.1,A,ahmed.mahmood,29:10.5, ,nagendra.sunku.b@accenture.com,14:45.1,28:23.3,neha.udaykumar.kale,1
+8399,sanjog.das,4/1/2022,4/4/2022,Planned Vacation,Planned Vacation,57:43.7,A,AutoAppoval,05:28.7,,sanjog.das@accenture.com,57:43.7,05:28.7,neha.udaykumar.kale,3
+8407,fabrice.daunas,4/11/2022,4/14/2022,Annual Leave,Regular Vacation,41:02.4,A,sareena.bains,02:42.1, ,fabrice.daunas@accenture.com,41:02.4,02:25.0,neha.udaykumar.kale,0
+8411,rachael.l.oneill,4/11/2022,4/14/2022,Annual Leave,regular vacation,18:06.9,A,sareena.bains,40:33.6, ,rachael.l.oneill@accenture.com,18:06.9,47:24.6,neha.udaykumar.kale,0
+8412,chris.mcvey,4/21/2022,4/26/2022,Annual Leave,Regular Vacation,34:40.9,A,kunal.ajay.desai,45:13.8, ,chris.mcvey@accenture.com,34:40.9,50:19.1,neha.udaykumar.kale,0
+8430,arunjunai.r.kannan,4/11/2022,4/11/2022,Comp off,Normal,55:18.9,A,AutoAppoval,13:23.3,,arunjunai.r.kannan@accenture.com,55:18.9,13:23.3,neha.udaykumar.kale,3
+8447,vibhor.pathak,4/11/2022,4/22/2022,Vacation,Regular,27:36.9,A,AutoAppoval,05:33.0,,vibhor.pathak@accenture.com,27:36.9,05:33.0,neha.udaykumar.kale,3
+8459,stewart.a.murphy,4/13/2022,4/29/2022,Annual Leave,Regular,01:38.5,A,sareena.bains,29:59.6, ,stewart.a.murphy@accenture.com,01:38.5,29:20.9,neha.udaykumar.kale,0
+8461,amy.o.shea,4/26/2022,4/29/2022,Annual Leave,Regular Leave,17:22.9,A,AutoAppoval,06:38.9,,amy.o.shea@accenture.com,17:22.9,06:38.9,neha.udaykumar.kale,3
+8473,andrew.clament,4/15/2022,4/15/2022,Good Friday,Vacation Leave,45:00.5,A,sudhir.kumar.meher,10:36.6, ,andrew.clament@accenture.com,45:00.5,01:09.6,neha.udaykumar.kale,1
+8481,shannon.sinclair,4/11/2022,4/11/2022,Annual Leave,Regular Vacation,13:25.9,A,sareena.bains,49:11.5, ,shannon.sinclair@accenture.com,13:25.9,46:10.9,neha.udaykumar.kale,0
+8482,shannon.sinclair,4/8/2022,4/8/2022,Annual Leave,Regular Vacation,13:13.6,A,sareena.bains,48:48.7, ,shannon.sinclair@accenture.com,13:13.6,46:10.9,neha.udaykumar.kale,0
+8485,scott.hillis,4/8/2022,4/14/2022,Vacation,Regular,15:31.8,A,AutoAppoval,04:10.1,,scott.hillis@accenture.com,15:31.8,04:10.1,neha.udaykumar.kale,3
+8488,alfiya.saifee,4/11/2022,4/22/2022,Leave,Regular Vacation,3/21/2022 16:32,A,kirthan.mangalore,15:52.1, ,alfiya.saifee@accenture.com,3/21/2022 16:32,19:11.0,neha.udaykumar.kale,3
+8496,umesh.x.kumar,4/28/2022,4/29/2022,Optional Holiday,Annual Holiday,00:57.2,A,AutoAppoval,04:10.1,,umesh.x.kumar@accenture.com,00:57.2,04:10.1,neha.udaykumar.kale,3
+8502,ramya.c.ramesh,4/14/2022,4/14/2022,Personal,Vacation,58:48.2,A,AutoAppoval,04:10.1,,ramya.c.ramesh@accenture.com,58:48.2,04:10.1,neha.udaykumar.kale,3
+8503,riya.chaudhuri,4/13/2022,4/13/2022,Personal,Vacation,02:41.1,A,AutoAppoval,04:10.1,,riya.chaudhuri@accenture.com,02:41.1,04:10.1,neha.udaykumar.kale,3
+8504,riya.chaudhuri,4/18/2022,4/19/2022,Personal,Vacation,04:42.2,A,AutoAppoval,04:10.1,,riya.chaudhuri@accenture.com,04:42.2,04:10.1,neha.udaykumar.kale,3
+8505,gulzar.ahmad,4/19/2022,4/25/2022,Holiday,Regular Vacation,07:31.9,A,nagendra.sunku.b,41:19.2,Approved Gulzar’s holiday in April as I have not had a response from you. ,gulzar.ahmad@accenture.com,07:31.9,01:09.9,neha.udaykumar.kale,2
+8508,a.banditirumalakondu,4/4/2022,4/9/2022,Vacation,Regular Vacation,03:40.7,A,AutoAppoval,05:03.4,,a.banditirumalakondu@accenture.com,03:40.7,05:03.4,neha.udaykumar.kale,3
+8515,darshan.kamalakar,4/18/2022,4/20/2022,Vacation,Vacation leave,29:36.9,A,ankur.a.arya,26:17.5, ,darshan.kamalakar@accenture.com,29:36.9,19:11.5,neha.udaykumar.kale,2
+8516,deepika.sahu,4/4/2022,4/5/2022,Medical Leave,Regular,30:14.9,A,AutoAppoval,08:57.3,,deepika.sahu@accenture.com,30:14.9,08:57.3,neha.udaykumar.kale,3
+8523,somya.chandra,4/22/2022,4/22/2022,Annual Leave,Regular Vacation,44:40.5,A,prathish.subash,17:23.3, ,somya.chandra@accenture.com,44:40.5,19:09.6,neha.udaykumar.kale,0
+8525,ravali.tumiki,4/1/2022,4/1/2022,Planned [vacation],Regular,34:36.0,A,p.c.sunitha,47:42.8, ,ravali.tumiki@accenture.com,34:36.0,04:10.1,neha.udaykumar.kale,0
+8526,niharika.v.prathi,4/1/2022,4/1/2022,Planned leave,Vacation,25:38.3,A,deepa.nayak,24:28.2,,niharika.v.prathi@accenture.com,25:38.3,23:58.0,neha.udaykumar.kale,3
+8529,neeraj.rajput,4/18/2022,4/19/2022,Planned [vacation],Regular,02:48.3,A,AutoAppoval,08:57.5,,neeraj.rajput@accenture.com,02:48.3,08:57.5,neha.udaykumar.kale,3
+8531,tanmay.f.sharma,4/14/2022,4/15/2022,Personal,Vacation,13:29.3,A,devesh.a.goyal,19:01.7, ,tanmay.f.sharma@accenture.com,13:29.3,08:19.2,neha.udaykumar.kale,1
+8532,fabrice.daunas,4/26/2022,4/29/2022,Annual Leave,Regular Vacation,50:39.7,A,sareena.bains,50:29.4, ,fabrice.daunas@accenture.com,50:39.7,49:14.3,neha.udaykumar.kale,1
+8539,babli.devi,4/1/2022,4/1/2022,Personal,Father Operation,46:10.4,P,,,,babli.devi@accenture.com,46:10.4,04:10.1,neha.udaykumar.kale,0
+8540,vipul.o.sharma,4/20/2022,4/22/2022,Family Marriage,Vacation,45:16.7,A,devesh.a.goyal,56:21.1, ,vipul.o.sharma@accenture.com,45:16.7,49:58.8,neha.udaykumar.kale,1
+8545,gautham.suresh.l,4/6/2022,4/6/2022,Personal,Vacation,20:20.5,A,ganesh.babu.m.p,36:05.3, ,gautham.suresh.l@accenture.com,20:20.5,34:12.0,neha.udaykumar.kale,0
+8548,devesh.a.goyal,4/18/2022,4/22/2022,Family function,Vacation,24:29.2,A,AutoAppoval,00:58.3,,devesh.a.goyal@accenture.com,24:29.2,00:58.3,neha.udaykumar.kale,3
+8549,asif.awan,4/4/2022,4/6/2022,Annual Leave,Regular Vacation,48:33.5,A,sareena.bains,51:24.4, ,asif.awan@accenture.com,48:33.5,53:57.0,neha.udaykumar.kale,0
+8553,abhishek.cs.kumar,4/11/2022,4/15/2022,vacation,vacation,49:47.4,A,AutoAppoval,10:07.9,,abhishek.cs.kumar@accenture.com,49:47.4,10:07.9,neha.udaykumar.kale,3
+8555,diwakar.dwivedi,4/25/2022,4/29/2022,Annual Leave,Regular Vacation,02:33.0,A,prathish.subash,14:38.5, ,diwakar.dwivedi@accenture.com,02:33.0,08:58.1,neha.udaykumar.kale,0
+8556,sengottu.v.balan,4/6/2022,4/6/2022,Vacation,Regular,49:17.5,A,AutoAppoval,10:07.9,,sengottu.v.balan@accenture.com,49:17.5,10:07.9,neha.udaykumar.kale,3
+8557,ayushi.anand,4/1/2022,4/1/2022,High Fever,Sick Leave,23:09.3,A,system,23:09.3,,ayushi.anand@accenture.com,23:09.3,38:58.5,neha.udaykumar.kale,0
+8558,vaibhav.s.chouhan,4/1/2022,4/1/2022,Sick,Sick Leave,18:22.2,A,system,18:22.2,,vaibhav.s.chouhan@accenture.com,18:22.2,38:58.5,neha.udaykumar.kale,0
+8559,akarshit.gupta,4/1/2022,4/1/2022,Sick off,Sick off,33:07.9,A,system,33:07.9,,akarshit.gupta@accenture.com,33:07.9,38:58.5,neha.udaykumar.kale,0
+8560,om.sai.p.maduku,4/1/2022,4/1/2022,Leave,leave,38:17.0,A,system,38:17.0,,deepa.nayak@accenture.com,38:17.0,38:56.7,neha.udaykumar.kale,0
+8561,pravin.kumar.anbu,4/1/2022,4/1/2022,Personal,Sick Leave,04:06.5,A,system,04:06.5,,priyakshi.kashyap@accenture.com,04:06.5,53:56.7,neha.udaykumar.kale,0
+8562,abhishek.u.singh,4/13/2022,4/14/2022,Annual Leave,Regular Vacation,02:02.8,A,AutoAppoval,03:58.0,,abhishek.u.singh@accenture.com,02:02.8,03:58.0,neha.udaykumar.kale,3
+8563,abhishek.u.singh,4/20/2022,4/22/2022,Annual Leave,Regular Vacation,02:59.6,A,AutoAppoval,03:58.0,,abhishek.u.singh@accenture.com,02:59.6,03:58.0,neha.udaykumar.kale,3
+8565,ashok.bhemineni,4/4/2022,4/4/2022,Leave,Personal,22:44.2,P,,,,ashok.bhemineni@accenture.com,22:44.2,13:44.1,neha.udaykumar.kale,1
+8566,khitish.kumar.dash,4/4/2022,4/4/2022,Leave,leave,18:27.9,A,system,18:27.9,,khitish.kumar.dash@accenture.com,18:27.9,13:44.5,neha.udaykumar.kale,0
+8567,aftab.e.alam,4/4/2022,4/4/2022,not well,Sick Leave,55:29.8,A,system,55:29.8,,aftab.e.alam@accenture.com,55:29.8,43:45.0,neha.udaykumar.kale,0
+8568,kirti.e.agarwal,4/25/2022,4/25/2022,Personal Time off,Regular,51:49.6,A,prathish.subash,05:30.1, ,kirti.e.agarwal@accenture.com,51:49.6,08:32.4,neha.udaykumar.kale,1
+8569,ankur.a.arya,4/18/2022,4/18/2022,Vacation Leave,Regular Leave,00:59.5,A,sunil.kumar.bal,13:46.0, ,ankur.a.arya@accenture.com,00:59.5,48:58.2,neha.udaykumar.kale,2
+8572,shannon.sinclair,4/12/2022,4/12/2022,Annual Leave,Regular Vacation,03:44.5,A,sareena.bains,09:11.7, ,shannon.sinclair@accenture.com,03:44.5,13:44.6,neha.udaykumar.kale,0
+8573,sourabh.shrotriya,4/19/2022,4/19/2022,Annual Leave,Regular,09:50.7,A,AutoAppoval,03:58.6,,sourabh.shrotriya@accenture.com,09:50.7,03:58.6,neha.udaykumar.kale,3
+8574,yuva.b.karmegam,4/6/2022,4/6/2022,Vacation,Regular,10:01.6,A,rinso.joseph,21:01.9, ,yuva.b.karmegam@accenture.com,10:01.6,13:46.6,neha.udaykumar.kale,0
+8575,john.torley,4/8/2022,4/8/2022,Annual Leave,Regular Vacation,15:48.7,A,sareena.bains,23:49.4, ,john.torley@accenture.com,15:48.7,28:44.5,neha.udaykumar.kale,0
+8576,neil.manoj,4/14/2022,4/15/2022,Vacation,Personal,18:53.3,A,AutoAppoval,03:58.6,,neil.manoj@accenture.com,18:53.3,03:58.6,neha.udaykumar.kale,3
+8577,shivam.a.verma,4/21/2022,4/22/2022,Personal Leave,Regular Vacation,59:41.4,A,AutoAppoval,03:58.6,,shivam.a.verma@accenture.com,59:41.4,03:58.6,neha.udaykumar.kale,3
+8578,megha.f.kumari,4/6/2022,4/7/2022,Planned Vacation,Planned Vacation,44:58.7,A,kirthan.mangalore,20:55.2, ,megha.f.kumari@accenture.com,44:58.7,16:00.8,neha.udaykumar.kale,1
+8579,sunitha.n.nandi,4/4/2022,4/5/2022,"My kid is not feeling well , need to take care of him.",Sick,16:40.8,A,system,16:40.8,,sunitha.n.nandi@accenture.com,16:40.8,31:15.6,neha.udaykumar.kale,0
+8580,suman.saurav.acharya,4/5/2022,4/5/2022,Need time off for Personal Work,Regular Leave,17:59.3,A,system,17:59.3,,suman.saurav.acharya@accenture.com,17:59.3,31:15.6,neha.udaykumar.kale,0
+8581,khitish.kumar.dash,4/5/2022,4/5/2022,Leave,leave,33:31.9,C,,27:54.6,,khitish.kumar.dash@accenture.com,33:31.9,23:31.9,neha.udaykumar.kale,0
+8582,aftab.e.alam,4/5/2022,4/5/2022,Emergency,Planned Leave,34:25.0,A,system,34:25.0,,aftab.e.alam@accenture.com,34:25.0,31:15.6,neha.udaykumar.kale,0
+8583,jeevitha.ramamoorthy,4/4/2022,4/5/2022,Personal emergency,Sick Leave,40:46.2,A,system,40:46.2,,jeevitha.ramamoorthy@accenture.com,40:46.2,30:59.5,neha.udaykumar.kale,0
+8584,sunil.kumar.bal,4/5/2022,4/6/2022,Personal work,Regular Leave,20:43.1,A,system,20:43.1,,sunil.kumar.bal@accenture.com,20:43.1,16:00.8,neha.udaykumar.kale,0
+8585,pratik.chattopadhyay,4/5/2022,4/5/2022,Sick,Sick leave,40:57.7,A,system,40:57.7,,pratik.chattopadhyay@accenture.com,40:57.7,38:43.8,neha.udaykumar.kale,0
+8586,rinso.joseph,4/12/2022,4/18/2022,Annual Leave,Regular,46:57.6,A,pravash.das,31:56.2, ,rinso.joseph@accenture.com,46:57.6,25:07.5,neha.udaykumar.kale,1
+8587,neha.udaykumar.kale,4/6/2022,4/6/2022,Sick,Sick leave,21:33.6,A,system,21:33.6,,neha.udaykumar.kale@accenture.com,21:33.6,25:10.7,neha.udaykumar.kale,0
+8588,arunjunai.r.kannan,4/15/2022,4/15/2022,Optional Holiday,Regular,12:43.2,A,AutoAppoval,04:26.5,,arunjunai.r.kannan@accenture.com,12:43.2,04:26.5,neha.udaykumar.kale,3
+8589,hitesh.l.kumar,4/6/2022,4/6/2022,Sick,Sick Leave,49:02.6,A,system,49:02.6,,hitesh.l.kumar@accenture.com,49:02.6,40:08.7,neha.udaykumar.kale,0
+8590,aruna.k.giliyar,4/27/2022,4/27/2022,Personal Work,Regular,53:26.3,A,deepa.nayak,04:50.6,,aruna.k.giliyar@accenture.com,53:26.3,04:25.6,neha.udaykumar.kale,3
+8592,a.g.chisholm-turner,4/8/2022,4/8/2022,Annual Leave,Regular Vacation,54:48.7,P,,,,a.g.chisholm-turner@accenture.com,54:48.7,03:58.6,neha.udaykumar.kale,2
+8593,aftab.e.alam,4/7/2022,4/7/2022,not well,Sick Leave,11:32.7,A,system,11:32.7,,aftab.e.alam@accenture.com,11:32.7,19:04.7,neha.udaykumar.kale,0
+8594,varsha.maheshwari,4/7/2022,4/7/2022,Not feeling well,Sick Leave,15:05.3,A,system,15:05.3,,varsha.maheshwari@accenture.com,15:05.3,19:04.7,neha.udaykumar.kale,0
+8595,deepa.nayak,4/21/2022,4/22/2022,Vacation,Vacation,25:56.6,A,AutoAppoval,10:02.2,,deepa.nayak@accenture.com,25:56.6,10:02.2,neha.udaykumar.kale,3
+8596,lakshmi.mohan.das,4/21/2022,4/22/2022,Vacation,Vacation,36:32.7,A,AutoAppoval,10:02.2,,lakshmi.mohan.das@accenture.com,36:32.7,10:02.2,neha.udaykumar.kale,3
+8597,bhavika.nithin.kumar,4/15/2022,4/15/2022,Vacation,Vacation,04:25.8,A,atul.narayan,35:42.0, ,bhavika.nithin.kumar@accenture.com,04:25.8,33:58.3,neha.udaykumar.kale,0
+8599,s.sriramasetty,4/18/2022,4/18/2022,Planned Leave,Vacation,15:14.8,A,rinso.joseph,16:11.6, ,s.sriramasetty@accenture.com,15:14.8,19:00.7,neha.udaykumar.kale,0
+8601,nagesh.a.shetty,4/8/2022,4/8/2022,Sick leave,Sick leave,31:58.3,A,system,31:58.3,,nagesh.a.shetty@accenture.com,31:58.3,13:05.9,neha.udaykumar.kale,0
+8603,ayush.a.soni,4/8/2022,4/8/2022,Fever,Sick Leave,35:10.2,A,system,35:10.2,,ayush.a.soni@accenture.com,35:10.2,33:57.6,neha.udaykumar.kale,0
+8604,atul.narayan,4/8/2022,4/8/2022,Personal Emergency Leave,Personal Emergency Leave,57:22.0,A,system,57:22.0,,ankur.a.arya@accenture.com,57:22.0,48:57.5,neha.udaykumar.kale,0
+8605,om.sai.p.maduku,4/4/2022,4/8/2022,Leave,leave,48:10.5,A,system,48:10.5,,deepa.nayak@accenture.com,48:10.5,48:58.5,neha.udaykumar.kale,0
+8606,vijaya.siri.myreddi,4/8/2022,4/8/2022,Sick leave,Sick leave,52:42.8,A,system,52:42.8,,vijaya.siri.myreddi@accenture.com,52:42.8,48:57.8,neha.udaykumar.kale,0
+8608,korrayi.vinay,4/11/2022,4/14/2022,Planned [Vacation],Regular,37:23.9,A,system,37:23.9,,korrayi.vinay@accenture.com,37:23.9,04:39.2,neha.udaykumar.kale,0
+8610,ankita.a.sarkar,4/11/2022,4/11/2022,Planned Leave,Regular,03:28.5,A,system,03:28.5,,ankita.a.sarkar@accenture.com,03:28.5,04:26.3,neha.udaykumar.kale,0
+8611,babli.devi,4/11/2022,4/11/2022,Sick Leave,Fever,22:09.5,A,system,22:09.5,,babli.devi@accenture.com,22:09.5,19:25.5,neha.udaykumar.kale,0
+8612,shilpashree.raghu,4/11/2022,4/11/2022,Personal Leave,Planned Leave,24:12.4,A,system,24:12.4,,shilpashree.raghu@accenture.com,24:12.4,19:25.5,neha.udaykumar.kale,0
+8613,s.dinkar.charde,4/11/2022,4/11/2022,Food Poisoning,Sick Leave,27:17.3,A,system,27:17.3,,s.dinkar.charde@accenture.com,27:17.3,19:25.5,neha.udaykumar.kale,0
+8615,n.an.gupta,4/11/2022,4/11/2022,Suffering from Fever,leave,44:48.4,A,system,44:48.4,,n.an.gupta@accenture.com,44:48.4,34:26.2,neha.udaykumar.kale,0
+8616,sunitha.n.nandi,4/11/2022,4/15/2022,Personal work,Regular Leave,44:21.2,A,system,44:21.2,,sunil.kumar.bal@accenture.com,44:21.2,49:25.3,neha.udaykumar.kale,0
+8617,pravin.daniel,4/15/2022,4/15/2022,To go to Church on Good Friday,Optional Leave,39:37.6,A,sanjog.das,53:42.8, ,pravin.daniel@accenture.com,39:37.6,49:27.2,neha.udaykumar.kale,0
+8618,kartik.s.bohara,4/14/2022,4/14/2022,Annual Leave,Regular Vacation,11:29.9,A,jordan.pollock,03:26.9, ,kartik.s.bohara@accenture.com,11:29.9,52:17.7,neha.udaykumar.kale,3
+8620,v.u.sharma,4/14/2022,4/14/2022,Personal Annual Leave,Vacation,23:34.2,P,,,,v.u.sharma@accenture.com,23:34.2,07:18.2,neha.udaykumar.kale,3
+8621,v.u.sharma,4/29/2022,4/29/2022,Personal Annual Leave,Vacation,24:19.3,C,,35:18.3,,v.u.sharma@accenture.com,24:19.3,32:08.8,neha.udaykumar.kale,3
+8623,prathish.subash,4/18/2022,4/30/2022,Vacation,Vacation,19:15.5,A,pravash.das,29:04.9, ,prathish.subash@accenture.com,19:15.5,19:25.8,neha.udaykumar.kale,1
+8624,s.v.radhakrishnan,4/22/2022,4/22/2022,Personal,Personal leave,17:07.8,A,AutoAppoval,02:06.8,,s.v.radhakrishnan@accenture.com,17:07.8,02:06.8,neha.udaykumar.kale,3
+8626,hrushikesh.nagarkar,4/14/2022,4/14/2022,Personal,Regular,29:48.5,P,,,,hrushikesh.nagarkar@accenture.com,29:48.5,07:18.2,neha.udaykumar.kale,3
+8627,shilpashree.raghu,4/12/2022,4/12/2022,Personal Leave,Casual Leave,18:30.1,A,system,18:30.1,,shilpashree.raghu@accenture.com,18:30.1,19:25.8,neha.udaykumar.kale,0
+8628,vangara.venkatesh,4/18/2022,4/18/2022,Personal Leave.,Regular.,31:14.5,C,,34:07.0,,vangara.venkatesh@accenture.com,31:14.5,27:20.5,neha.udaykumar.kale,2
+8629,priyakshi.kashyap,4/28/2022,4/28/2022,Personal,Planned Leave,32:47.5,P,,,,priyakshi.kashyap@accenture.com,32:47.5,02:06.8,neha.udaykumar.kale,3
+8631,neha.e.mehta,4/15/2022,4/15/2022,Accenture Good Friday Holiday in Gurugram,Regular,26:44.3,A,k.sharan,19:29.4, ,neha.e.mehta@accenture.com,26:44.3,22:18.4,neha.udaykumar.kale,2
+8635,arya.thilakan.monatt,4/13/2022,4/13/2022,Unwell,Sick Leave,06:25.6,A,system,06:25.6,,arya.thilakan.monatt@accenture.com,06:25.6,25:02.0,neha.udaykumar.kale,0
+8636,gautham.suresh.l,4/22/2022,4/22/2022,Personal,Vacation,40:08.1,A,ganesh.babu.m.p,59:08.1, ,gautham.suresh.l@accenture.com,40:08.1,55:01.2,neha.udaykumar.kale,0
+8637,sambaran.ganguly,4/13/2022,4/13/2022,Not well,Sick leave,39:55.7,A,system,39:55.7,,sambaran.ganguly@accenture.com,39:55.7,40:01.3,neha.udaykumar.kale,0
+8638,swati.a.roy,4/13/2022,4/13/2022,Sick,Sick,42:22.9,A,system,42:22.9,,swati.a.roy@accenture.com,42:22.9,40:00.2,neha.udaykumar.kale,0
+8639,ragini.kushwah,4/19/2022,4/19/2022,Annual Leave,,48:28.0,P,,,,ragini.kushwah@accenture.com,48:28.0,02:06.8,neha.udaykumar.kale,2
+8641,hareesh.subramanian,4/15/2022,4/15/2022,Good Friday optional leave,Optional Leave,31:43.5,P,,,,hareesh.subramanian@accenture.com,31:43.5,07:18.2,neha.udaykumar.kale,1
+8643,dondla.lavanya,4/14/2022,4/14/2022,Sick,Sick Leave,39:35.6,A,system,39:35.6,,dondla.lavanya@accenture.com,39:35.6,31:15.1,neha.udaykumar.kale,0
+8644,n.an.gupta,4/14/2022,4/14/2022,Suffering from Fever,leave,33:16.0,A,system,33:16.0,,n.an.gupta@accenture.com,33:16.0,31:14.6,neha.udaykumar.kale,0
+8645,sahil.kumar.prasad,4/18/2022,4/18/2022,Planned,Regular,56:12.3,A,system,56:12.3,,sahil.kumar.prasad@accenture.com,56:12.3,27:20.5,neha.udaykumar.kale,0
+8646,sudhir.kumar.meher,4/18/2022,4/19/2022,Personal emergency,Emergency leave,09:17.7,A,system,09:17.7,,sudhir.kumar.meher@accenture.com,09:17.7,57:11.1,neha.udaykumar.kale,0
+8647,ayushi.anand,4/18/2022,4/18/2022,Fever,Sick Leave,15:25.5,A,system,15:25.5,,ayushi.anand@accenture.com,15:25.5,17:06.2,neha.udaykumar.kale,0
+8648,vangara.venkatesh,4/20/2022,4/21/2022,Personal Leave.,Regular,24:51.6,P,,,,vangara.venkatesh@accenture.com,24:51.6,17:06.2,neha.udaykumar.kale,0
+8649,ashay.ajay.thakur,4/18/2022,4/18/2022,Sick,Sick Leave,59:46.2,A,system,59:46.2,,ashay.ajay.thakur@accenture.com,59:46.2,02:07.4,neha.udaykumar.kale,0
+8650,chanchal.rani,4/18/2022,4/18/2022,Personal Emergency,Emergency Leave,28:21.1,A,system,28:21.1,,shinda.sheret@accenture.com,28:21.1,32:06.2,neha.udaykumar.kale,0
+8651,abhishek.u.singh,4/18/2022,4/18/2022,Sick leave,Sick leave,51:32.9,A,system,51:32.9,,t.e.srinivasan@accenture.com,51:32.9,47:07.1,neha.udaykumar.kale,0
+8652,bhuvana.venkatesan,4/18/2022,4/18/2022,Sick(breathing issue),Sick Leave,17:33.9,A,system,17:33.9,,bhuvana.venkatesan@accenture.com,17:33.9,17:07.0,neha.udaykumar.kale,0
